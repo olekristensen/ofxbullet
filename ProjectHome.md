@@ -1,0 +1,1 @@
+This addon enables use of bullet physics in openframeworks
